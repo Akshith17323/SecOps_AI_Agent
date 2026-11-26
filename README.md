@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 Modern enterprise and IoT networks generate massive volumes of telemetry and security logs daily. Human security analysts frequently face **alert fatigue**—sifting through high-volume alarms while critical threats like DoS/DDoS floods, brute-force attempts, and port reconnaissance unfold in milliseconds.
 
@@ -16,7 +16,7 @@ This system provides an end-to-end autonomous **Security Operations Center (SOC)
 
 ---
 
-## 📊 Dataset Specification
+## Dataset Specification
 
 * **Dataset:** RT-IoT2022 (Real-Time Internet of Things 2022)
 * **Source:** [UCI Machine Learning Repository (Dataset ID: 942)](https://archive.ics.uci.edu/dataset/942/rt-iot2022)
@@ -30,7 +30,7 @@ This system provides an end-to-end autonomous **Security Operations Center (SOC)
 
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 ### 1. Installation
 Clone the repository and install required dependencies:
